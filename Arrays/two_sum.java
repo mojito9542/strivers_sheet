@@ -1,3 +1,6 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+
 class two_sum {
         public pair[] allPairs( long A[], long B[], long N, long M, long X) {
             Arrays.sort(A);

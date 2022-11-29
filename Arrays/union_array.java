@@ -1,4 +1,4 @@
-import org.w3c.dom.ls.LSParserFilter;
+
 
 public class union_array {
     static void union(int arr1[], int arr2[])

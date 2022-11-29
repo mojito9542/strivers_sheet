@@ -19,4 +19,3 @@ class subarr_sum {
     }
 
 
-}
